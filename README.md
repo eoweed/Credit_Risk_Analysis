@@ -2,8 +2,8 @@
 Use Machine Learning to Predict Credit Card Risk
 
 ## Overview:
-#### The purpose of this project is to create and compare six supervised machine learning models that will predict credit card risk using current loan status. The dataset used to train and test the models is provided by the LendingClub and contains information about loans and credit card data. The goal is to determine which model can most accurately predict loan status.
-#### Loan and credit card data usually contains unbalanced classifications for the target variable. In other words, when analyzing and predicting loan status there are usually much more good loans than bad loans. The six machine learning models that will be used contain sampling strategies that will balance out the data before making predictions.
+#### The purpose of this project is to create and compare six supervised machine learning models that will predict credit card risk with the classification of low-risk or high-risk loan status. The dataset used to train and test the models is provided by the LendingClub and contains information about loans and credit card data. The goal is to determine which model can most accurately predict loan status.
+#### Loan and credit card data usually contain unbalanced classifications for the target variable. In other words, when analyzing and predicting loan status there are usually many more good loans than bad loans. The six machine learning models that will be used contain sampling strategies that will balance out the data before making predictions.
 1. RandomOverSampler
 2. SMOTE
 3. ClusterCentroids
