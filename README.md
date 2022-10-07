@@ -14,9 +14,13 @@ Use Machine Learning to Predict Credit Card Risk
 ## Results:
 ###### Below are the evaluations of each machine learning model showing the accuracy of the model, and the precision and sensitivity of predicting high-risk and low-risk loan status. 
 
-<img src="https://github.com/eoweed/Credit_Risk_Analysis/blob/main/images/Resampling-Models-Evaluation.png" width=50% height=50%>
-<img src="https://github.com/eoweed/Credit_Risk_Analysis/blob/main/images/Resampling-Models-Evaluation.png" width=50% height=50%>
-<img src="https://github.com/eoweed/Credit_Risk_Analysis/blob/main/images/EasyEnsembleClassifier.png" width=50% height=50%>
+<img src="https://github.com/eoweed/Credit_Risk_Analysis/blob/main/images/Resampling-Models-Evaluation.png">
+
+####
+<img src="https://github.com/eoweed/Credit_Risk_Analysis/blob/main/images/BalancedRandomForestClassifier.png">
+
+####
+<img src="https://github.com/eoweed/Credit_Risk_Analysis/blob/main/images/EasyEnsembleClassifier.png">
 
 ###### RandomOverSampler:
 -	Accuracy: 0.661
